@@ -2,6 +2,12 @@
 
 Emoji Generator
 
+```bash
+npm install emojiterator
+```
+
+## Usage
+
 ```JavaScript
 > emojiterator = require('emojiterator')
 { evil: [Function: evil] }
@@ -13,4 +19,5 @@ Emoji Generator
 { value: '🙈', done: false }
 > evils.next()
 { value: '🙉', done: false }
+> // Evil never finishes
 ```
