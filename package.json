@@ -1,6 +1,6 @@
 {
   "name": "emojiterator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Emoji Generators",
   "main": "index.js",
   "scripts": {
